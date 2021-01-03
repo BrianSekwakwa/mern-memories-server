@@ -16,4 +16,4 @@ PATCH
 - /posts/updateLikes/:id - Update our like count on each individual post
 
 DELETE
-- /:id - Delete a post from our database 
+- /posts/:id - Delete a post from our database 
